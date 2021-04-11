@@ -12,7 +12,3 @@ It has been built as a series of four incremental phases, each contributing a ke
 | Project-3 | Building a semantic analyser for the context free grammar implemented in Project-2           |
 | Project-4 | Building an Intermediate Code Generator                                                      |
 
-
-### Team Members
- - Karthik M (15CO221)
- - Kaushik S Kalmady (15CO222)
